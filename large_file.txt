@@ -1,0 +1,51 @@
+The English Wikipedia is the primary[a] English-language edition of Wikipedia, an online encyclopedia. It was created by Jimmy Wales and Larry Sanger on 15 January 2001, as Wikipedia's first edition.
+
+English Wikipedia is hosted alongside other language editions by the Wikimedia Foundation, an American nonprofit organization. Its content, written independently of other editions by volunteer editors known as Wikipedians,[1] is in various varieties of English while aiming to stay consistent within articles. Its internal newspaper is The Signpost.
+
+English Wikipedia is the most read version of Wikipedia,[2][3] accounting for 48% of Wikipedia's cumulative traffic, with the remaining percentage split among the other languages.[4] The English Wikipedia has the most articles of any edition, at 7,141,336 as of February 2026.[b] It contains 10.7% of articles in all Wikipedias,[b] although it lacks millions of articles found in other editions.[1] The edition's one-billionth edit was made on 13 January 2021 by editor Steven Pruitt.[5]
+
+English Wikipedia, often as a stand-in for Wikipedia overall, has been praised for its enablement of the democratization of knowledge, extent of coverage, unique structure, culture, and reduced degree of commercial bias. It has been criticized for exhibiting systemic bias, particularly gender bias against women and ideological bias.[6][7] While its reliability was frequently criticized in the 2000s, it has improved over time, receiving greater praise in the late 2010s and throughout the 2020s,[8][6][9][c] having become an important fact-checking site.[10][11] English Wikipedia has been characterized as having less cultural bias than other language editions due to its broader editor base.[2]
+
+Articles
+
+Article count at beginning of indicated year
+
+Increase in number of articles during indicated year
+Opening English Wikipedia's main page with Mozilla Firefox 99 on Ubuntu 20.04
+The English Wikipedia surpassed seven million articles on 28 May 2025.[12] In November 2022, the total volume of the compressed texts of its articles amounted to 20 gigabytes.[13]
+
+The edition's one-billionth edit was made on 13 January 2021 by Ser Amantio di Nicolao (Steven Pruitt) who was as of that date and remains as of January 2026 the user with the highest number of edits on the English Wikipedia, at over four million.[5] (as of January 2026, this figure was more than 6.7 million, as per Wikipedia statistics). Currently, there are 7,141,336 articles created with 961,528 files. The encyclopedia is home to 10.7% of articles in all Wikipedias (down from more than 50% in 2003).[14][15] The English Wikipedia currently has 51,642,093 registered accounts of which 822 are administrators.
+
+Bureaucracy
+Editors of the English Wikipedia have pioneered some ideas as conventions, policies or features which were later adopted by Wikipedia editions in some of the other languages. These ideas include "featured articles",[16] the neutral-point-of-view policy,[17] navigation templates,[18] the sorting of short "stub" articles into sub-categories,[19] dispute resolution mechanisms such as mediation and arbitration,[20] and weekly collaborations.[21]
+
+Wikipedians
+Main article: Wikipedian
+
+The countries in which the English Wikipedia is the most popular language version of Wikipedia are shown in red.
+
+Number of volunteer editors on the English Wikipedia over time
+
+Edits to English Wikipedia by country as of January 2022
+
+The English Wikipedia (marked blue in the graph) is the most-read version of Wikipedia, accounting for 48% of the website's global traffic as of 2021.
+
+The English Wikipedia has consistently been the most edited Wikipedia language version.
+The English Wikipedia reached 4,000,000 registered user accounts on 1 April 2007,[22] over a year since the millionth Wikipedian registered an account in February 2006.[23]
+
+Over 1,100,000 volunteer editors have edited Wikipedia more than 10 times.[24] Over 30,000 editors perform more than 5 edits per month, and over 3,000 perform more than 100 edits per month.[25]
+
+On 1 March 2014, The Economist, in an article titled "The Future of Wikipedia", cited a trend analysis concerning data published by the Wikimedia Foundation stating that "[t]he number of editors for the English-language version has fallen by a third in seven years."[26] The attrition rate for active editors in English Wikipedia was cited by The Economist as substantially in contrast to statistics for Wikipedia in other languages (non-English Wikipedia). The Economist reported that the number of contributors with an average of five or more edits per month was relatively constant since 2008 for Wikipedia in other languages at approximately 42,000 editors within narrow seasonal variances of about 2,000 editors up or down. The number of active editors in English Wikipedia, by "sharp" comparison, was cited as peaking in 2007 at approximately 50,000 and dropping to 30,000 by the start of 2014.
+
+The trend analysis published in The Economist presents Wikipedia in other languages (non-English Wikipedia) as successful in retaining their active editors on a renewable and sustained basis, with their numbers remaining relatively constant at approximately 42,000.[26]
+
+The English Wikipedia has the Arbitration Committee (also known as ArbCom) that consists of a panel of editors that imposes binding rulings with regard to disputes between other editors of the online encyclopedia.[27] It was created by Jimmy Wales on 4 December 2003 as an extension of the decision-making power he had formerly held as owner of the site.[28][29] When it was founded, the committee consisted of 12 arbitrators divided into three groups of four members each.[28][30]
+
+In 2022, for English Wikipedia, Americans accounted for about 40% of active editors, followed by British and Indian editors accounting for about 10% of each, and Canadian and Australian at about 5%.[31]
+
+Criticism
+
+Two radically different versions of the Wikipedia biography Klee Irwin (now deleted)[32] presented to the public within days of each other: Wikipedia's susceptibility to edit wars and bias is an issue often raised by the project's critics.
+The free online encyclopedia Wikipedia has been criticized since its creation in 2001. Most of the criticism has been directed toward its content, community of established volunteer users, process, and rules. Critics have questioned its factual reliability, the readability and organization of its articles, the lack of methodical fact-checking, and its political bias.
+
+Concerns have also been raised about systemic bias along gender, racial, political, corporate, institutional, and national lines. Conflicts of interest arising from corporate campaigns to influence content have also been highlighted. Further concerns include the vandalism and partisanship facilitated by anonymous editing, clique behavior (from contributors as well as administrators and other top figures), social stratification between a guardian class and newer users, excessive rule-making, edit warring, and uneven policy application.
