@@ -10,6 +10,7 @@ Write clean and readable code
 
 Create a space where others can learn and contribute
 
+
 📌 What You'll Find Here
 
 Core Python practice programs
@@ -23,3 +24,16 @@ Data handling and basic analysis scripts
 Jupyter notebooks for experimentation
 
 This repository is continuously updated with new problems and solutions.
+
+
+🤝 Contributions Are Welcome
+
+You're welcome to:
+
+Add new problems
+
+Submit alternative solutions
+
+Improve existing implementations
+
+Suggest optimizations
