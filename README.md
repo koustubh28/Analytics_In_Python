@@ -10,6 +10,7 @@ Write clean and readable code
 
 Create a space where others can learn and contribute
 
+-----------------------------------------------------------------------------------
 
 📌 What You'll Find Here
 
@@ -25,6 +26,7 @@ Jupyter notebooks for experimentation
 
 This repository is continuously updated with new problems and solutions.
 
+-------------------------------------------------------------------------------------
 
 🤝 Contributions Are Welcome
 
@@ -37,3 +39,16 @@ Submit alternative solutions
 Improve existing implementations
 
 Suggest optimizations
+
+----------------------------------------------------------------------------------------
+
+💡 How to Run the Programs
+
+Clone the repository:
+git clone https://github.com/koustubh28/Python-Programming.git
+
+Navigate into the folder and run any Python script:
+python filename.py
+
+For notebooks:
+jupyter notebook
